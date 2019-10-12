@@ -1,5 +1,9 @@
-# PracticeOne - SO
+## Subject: Sistemas Operativos 2018-II
+### Group members:
+* Oscar Julian Tinjaca Reyes.         	
+	* ojtinjacar@unal.edu.co
+* Guiselle Tatiana Zambrano Penagos 	
+	* gtzambranop@unal.edu.co
 
-Practica 1 para sistemas operativos 
-El archivo aún tiene errores, no hay buen manejo de punteros e imprime valores
-que no se especifican en el documento.
+
+Implementation of a database in C, using a hash table that runs on the disk.
